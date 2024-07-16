@@ -1,4 +1,4 @@
-"customers": [
+{"customers": [
 {
 "id": 1,
 "name": "Ahmed Ali"
@@ -78,4 +78,6 @@
 {
 "id": 20,
 "name": "Rania Mohamed"
+}
+]
 }
