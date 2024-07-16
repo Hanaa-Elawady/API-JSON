@@ -1,26 +1,4 @@
 {
-  "customers": [
-    { "id": 1, "name": "Ahmed Ali" },
-    { "id": 2, "name": "Aya Elsayed" },
-    { "id": 3, "name": "Mina Adel" },
-    { "id": 4, "name": "Sarah Reda" },
-    { "id": 5, "name": "Mohamed Sayed" },
-    { "id": 6, "name": "Omar Hossam" },
-    { "id": 7, "name": "Laila Ahmed" },
-    { "id": 8, "name": "Youssef Mahmoud" },
-    { "id": 9, "name": "Hana Mostafa" },
-    { "id": 10, "name": "Kareem Adel" },
-    { "id": 11, "name": "Nour Gamal" },
-    { "id": 12, "name": "Ali Hassan" },
-    { "id": 13, "name": "Salma Tarek" },
-    { "id": 14, "name": "Amr Samir" },
-    { "id": 15, "name": "Fatma Ahmed" },
-    { "id": 16, "name": "Omar Sherif" },
-    { "id": 17, "name": "Yara Mostafa" },
-    { "id": 18, "name": "Nada Ibrahim" },
-    { "id": 19, "name": "Tarek Farouk" },
-    { "id": 20, "name": "Rania Mohamed" }
-  ],
   "transactions": [
     { "id": 1, "customer_id": 1, "date": "2022-01-01", "amount": 1000 },
     { "id": 2, "customer_id": 1, "date": "2022-01-02", "amount": 2000 },
